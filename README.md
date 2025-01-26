@@ -1,4 +1,4 @@
-# pg-cpp-second-course
+# pg-second-course-cpp
 The package of projects prepared for passing a second C++ course at university.
 
 ## Programs
